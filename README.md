@@ -20,7 +20,7 @@ The data was trained using RANDOM FOREST REGRESSOR and the accuracy was not so g
 
 **INSTALLATION**
 
-The packages need to install the tool used is contained in the REQUIREMENT.TXT file. Although an easy way to go about it is to install ANACONDA distribution.
+The packages needed to install the tool used is contained in the REQUIREMENT.TXT file. Although an easy way to go about it is to install ANACONDA distribution.
 
 
-**THANK YOU**
+**THANK YOU!**
